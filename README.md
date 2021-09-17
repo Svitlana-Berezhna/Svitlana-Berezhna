@@ -3,6 +3,11 @@
 - 🔭 I’m currently working as Trainee Software Engineer
 - 🌱 I’m currently learning Java and Salesforce
 - 📫 How to reach me: 555java.dev@gmail.com
+- ⚡ Fun fact: my cat is an expert in programming. When I talk to him, even the most difficult things become simple.
+
+<p align="center">
+<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" title="Animated GIF cat"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" alt="Cat" width="20%" height="20%"></a>
+</p>
 
 ## ⚡ Technologies
 
