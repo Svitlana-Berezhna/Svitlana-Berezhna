@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Trainee Software Engineer
+- 🔭 I’m currently working on something awesome
 - 🌱 I’m currently learning Java and Salesforce
 - 📫 How to reach me: 555java.dev@gmail.com
 - ⚡ Fun fact: my cat is an expert in programming. When I talk to him, even the most difficult things become simple.
