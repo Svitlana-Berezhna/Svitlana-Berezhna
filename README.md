@@ -26,6 +26,16 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Svitlana-Berezhna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svitlana-Berezhna&show_icons=true&theme=default&disable_animations=false) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Svitlana-Berezhna&layout=compact&langs_count=10)
+| <a href="https://github.com/Svitlana-Berezhna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Svitlana-Berezhna&show_icons=true&theme=default&disable_animations=false&hide_border=true" alt="Svitlana Berezhna's github stats" /></a> | <a href="https://github.com/Svitlana-Berezhna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svitlana-Berezhna&layout=compact&langs_count=10&theme=default&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Svitlana-Berezhna.Svitlana-Berezhna)
+
+#### Top Repositories
+
+<a href="https://github.com/Svitlana-Berezhna/Java_2020_group2_FinalSpringProject_option_12_StudentTesting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=Java_2020_group2_FinalSpringProject_option_12_StudentTesting&theme=default" />
+</a>
+<a href="https://github.com/Svitlana-Berezhna/Java_2020_group2_FinalServletProject_option_12_StudentTesting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=Java_2020_group2_FinalServletProject_option_12_StudentTesting&theme=default" />
+</a>
