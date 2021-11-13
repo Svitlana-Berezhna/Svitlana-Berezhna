@@ -33,9 +33,9 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Svitlana-Berezhna/Java_2020_group2_FinalSpringProject_option_12_StudentTesting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=Java_2020_group2_FinalSpringProject_option_12_StudentTesting&theme=default" />
+<a href="https://github.com/Svitlana-Berezhna/spring-student-testing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=spring-student-testing&theme=default" />
 </a>
-<a href="https://github.com/Svitlana-Berezhna/Java_2020_group2_FinalServletProject_option_12_StudentTesting">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=Java_2020_group2_FinalServletProject_option_12_StudentTesting&theme=default" />
+<a href="https://github.com/Svitlana-Berezhna/servlet-student-testing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=servlet-student-testing&theme=default" />
 </a>
