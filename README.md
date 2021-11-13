@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on something awesome
 - 🌱 I’m currently learning Java and Salesforce
-- 📫 How to reach me: 555java.dev@gmail.com
-- ⚡ Fun fact: my cat is an expert in programming. When I talk to him, even the most difficult things become simple.
+- ⚡ Fun fact: my Cat is an expert in programming: when I talk to him, even the most difficult things become simple.
+- 📫 Feel free to reach me by email: 555java.dev@gmail.com.
 
 <p align="center">
 <a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" title="Animated GIF cat"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" alt="Cat" width="20%" height="20%"></a>
@@ -33,8 +33,8 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Svitlana-Berezhna/spring-student-testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=spring-student-testing&theme=default" />
+<a href="https://github.com/Svitlana-Berezhna/spring-student-testing-0.0.1-SNAPSHOT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=spring-student-testing-0.0.1-SNAPSHOT&theme=default" />
 </a>
 <a href="https://github.com/Svitlana-Berezhna/servlet-student-testing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Svitlana-Berezhna&repo=servlet-student-testing&theme=default" />
