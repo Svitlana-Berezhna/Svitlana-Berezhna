@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Svitlana Berezhna
 
-- 🔭 I’m currently working on something awesome
-- 🌱 I’m currently learning Java and Salesforce
+- 🔭 I’m currently working on something awesome.
+- 🌱 I’m currently learning Java. I’m also interested in top-notch Java-related technologies that allow to speed up the software development lifecycle, make customers happier and the world better.:)
 - ⚡ Fun fact: my Cat is an expert in programming: when I talk to him, even the most difficult things become simple.
 - 📫 Feel free to reach me by email: 555java.dev@gmail.com.
 
