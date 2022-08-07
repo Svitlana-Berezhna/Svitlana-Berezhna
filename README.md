@@ -6,7 +6,7 @@
 - 📫 Feel free to reach me by email: 555java.dev@gmail.com.
 
 <p align="center">
-<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" title="Animated GIF cat"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" alt="Cat" width="50%" height="50%"></a>
+<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" title="Animated GIF cat"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" alt="Cat" width="300 px" height="300 px"></a>
 </p>
 
 ## ⚡ Technologies
