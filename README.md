@@ -6,7 +6,15 @@
 - 📫 Feel free to reach me by email: 555java.dev@gmail.com.
 
 <p align="center">
-<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" title="Animated GIF cat"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif" alt="Cat" width="300 px" height="300 px"></a>
+<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework1.gif" title="Firework 1"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework1.gif" alt="firework1" width="200" height="200"></a><a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework2.gif" title="Firework 2"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework2.gif" alt="Firework 2" width="200" height="200"></a><a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework1.gif" title="Firework 1"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework1.gif" alt="Firework 1" width="200" height="200"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/new_year.gif" title="New year"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/new_year.gif" alt="new_year"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework2.gif" title="Firework 2"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework2.gif" alt="firework2" width="200" height="200"></a><a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework1.gif" title="Firework 1"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework1.gif" alt="Firework 1" width="200" height="200"></a><a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework2.gif" title="Firework 2"><img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/firework2.gif" alt="Firework 2" width="200" height="200"></a>
 </p>
 
 ## ⚡ Technologies
