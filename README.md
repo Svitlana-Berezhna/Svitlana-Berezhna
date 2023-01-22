@@ -1,16 +1,15 @@
-![snake gif](https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/output/github-contribution-grid-snake.gif)
-
 ### Hi there 👋 I'm Svitlana Berezhna
 
 - 🔭 I’m currently working on something awesome.
 - 🌱 I’m currently learning Java. I’m also interested in top-notch Java-related technologies that allow to speed up the software development lifecycle, make customers happier and the world better.:)
 - ⚡ Fun fact: my Cat is an expert in programming: when I talk to him, even the most difficult things become simple.
-- 📫 Feel free to reach me by email: 555java.dev@gmail.com.
 
 <p align="center">
-<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif">
-<img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat.gif"></a>
+<a href="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat_coding.gif">
+<img src="https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/main/cat_coding.gif"></a>
 </p>
+
+- 📫 Feel free to reach me by email: 555java.dev@gmail.com.
 
 ## ⚡ Technologies
 
@@ -33,6 +32,8 @@
 | ------------- | ------------- |
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Svitlana-Berezhna.Svitlana-Berezhna)
+
+![snake gif](https://github.com/Svitlana-Berezhna/Svitlana-Berezhna/blob/output/github-contribution-grid-snake.gif)
 
 #### Top Repositories
 
